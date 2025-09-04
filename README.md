@@ -49,7 +49,7 @@ GENAI_PRJCT/
 - **AI Model:** LLaMA 3.2 3B Instruct (4-bit quantized)
 - **Vector Search:** FAISS
 - **Frontend:** HTML5/CSS3/JavaScript
-- **Data:** 1,402 processed Nepal legal and financial documents
+- **Data:** Processed Nepal legal and financial documents
 
 ## Features
 

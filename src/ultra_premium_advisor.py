@@ -326,7 +326,7 @@ RESPONSE:"""
         with torch.no_grad():
             outputs = self.model.generate(
                 **inputs,
-                max_new_tokens=2048,  # Increased for complete responses
+                max_new_tokens=1024,  # Reduced for faster responses
                 temperature=0.2,     # Lower for faster, focused responses
                 do_sample=True,
                 top_p=0.85,
