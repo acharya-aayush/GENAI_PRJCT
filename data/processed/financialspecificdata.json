@@ -1,0 +1,324 @@
+[
+  {
+    "business_type": "Clothing Store",
+    "locations": [
+      {
+        "city": "Kathmandu",
+        "areas": [
+          {
+            "name": "Thamel",
+            "description": "High foot traffic, tourist-focused. Higher rent, potential for higher revenue.",
+            "rent_nrs_per_month": "100,000-120,000",
+            "foot_traffic": "High",
+            "supplier_hubs": ["Thamel", "Teku"]
+          },
+          {
+            "name": "Putalisadak",
+            "description": "Commercial hub with mix of local and imported goods. Good for general retail.",
+            "rent_nrs_per_month": "80,000-100,000",
+            "foot_traffic": "Medium-High",
+            "supplier_hubs": ["Teku"]
+          },
+          {
+            "name": "Basundhara",
+            "description": "Residential area with growing commercial activity. Good for a startup with a local customer base.",
+            "rent_nrs_per_month": "50,000-70,000",
+            "foot_traffic": "Medium"
+          }
+        ]
+      },
+      {
+        "city": "Pokhara",
+        "areas": [
+          {
+            "name": "Lakeside",
+            "description": "Primary tourist area. Ideal for a boutique or souvenir-focused clothing store.",
+            "rent_nrs_per_month": "80,000-100,000",
+            "foot_traffic": "High"
+          },
+          {
+            "name": "Mahendrapool",
+            "description": "Major commercial hub with local shoppers. Good for general clothing and textiles.",
+            "rent_nrs_per_month": "60,000-90,000",
+            "foot_traffic": "High"
+          },
+          {
+            "name": "New Road",
+            "description": "Developing commercial area. Lower rent with potential for growth.",
+            "rent_nrs_per_month": "40,000-60,000",
+            "foot_traffic": "Medium"
+          }
+        ]
+      }
+    ],
+    "costs": {
+      "raw_materials": {
+        "cost_per_unit_nrs": "200-800",
+        "breakdown": {
+          "cotton_fabric_per_meter_nrs": "200-400",
+          "silk_fabric_per_meter_nrs": "500-800"
+        }
+      },
+      "salaries_nrs_per_month": [
+        {
+          "role": "Shop Manager",
+          "range": "30,000-35,000"
+        },
+        {
+          "role": "Sales Assistant",
+          "range": "20,000-25,000"
+        },
+        {
+          "role": "Production Tailor",
+          "range": "25,000-30,000"
+        }
+      ]
+    },
+    "financials": {
+      "typical_monthly_sales_nrs": "100,000-300,000",
+      "profit_margin_percentage": "30-50"
+    }
+  },
+  {
+    "business_type": "Consultancy",
+    "locations": [
+      {
+        "city": "Kathmandu",
+        "areas": [
+          {
+            "name": "New Baneshwor",
+            "description": "Prime business district, close to government offices.",
+            "rent_nrs_per_month": "60,000-80,000"
+          },
+          {
+            "name": "Anamnagar",
+            "description": "Residential-commercial mix, suitable for smaller operations.",
+            "rent_nrs_per_month": "30,000-50,000"
+          }
+        ]
+      },
+      {
+        "city": "Pokhara",
+        "areas": [
+          {
+            "name": "Buddha Bishal Bazaar Road",
+            "description": "Central and accessible location, good for client meetings.",
+            "rent_nrs_per_month": "25,000-45,000"
+          },
+          {
+            "name": "Lakeside",
+            "description": "High-end area, suitable for tourism or international consulting.",
+            "rent_nrs_per_month": "40,000-60,000"
+          }
+        ]
+      }
+    ],
+    "costs": {
+      "average_fee_per_client_nrs": "2,000-15,000",
+      "staff_salaries_nrs_per_month": [
+        {
+          "role": "Junior Consultant",
+          "range": "20,000-30,000"
+        },
+        {
+          "role": "Senior Consultant",
+          "range": "40,000-60,000"
+        },
+        {
+          "role": "Principal/Partner",
+          "range": "80,000+"
+        }
+      ]
+    }
+  },
+  {
+    "business_type": "Food Delivery",
+    "locations": [
+      {
+        "city": "Kathmandu",
+        "areas": [
+          {
+            "name": "Baneshwor",
+            "description": "High-density residential and commercial area, ideal for wide delivery coverage.",
+            "kitchen_rent_nrs_per_month": "80,000-100,000"
+          },
+          {
+            "name": "Kupandole",
+            "description": "Central location, popular with expats and students.",
+            "kitchen_rent_nrs_per_month": "70,000-90,000"
+          }
+        ]
+      },
+      {
+        "city": "Pokhara",
+        "areas": [
+          {
+            "name": "Lakeside",
+            "description": "Tourist and high-traffic zone. High order volume, especially for international cuisine.",
+            "kitchen_rent_nrs_per_month": "60,000-80,000"
+          },
+          {
+            "name": "Mahendrapool",
+            "description": "Dense local population, good for targeting a broad customer base.",
+            "kitchen_rent_nrs_per_month": "40,000-60,000"
+          }
+        ]
+      }
+    ],
+    "costs": {
+      "ingredients_cost_per_meal_nrs": "150-350",
+      "breakdown": {
+        "Nepali Thali": "150-200",
+        "Momo": "100-150",
+        "Pizza": "250-350"
+      },
+      "salaries_nrs_per_month": [
+        {
+          "role": "Delivery Personnel",
+          "range": "15,000-25,000",
+          "details": "Often includes a base salary and a per-delivery incentive."
+        }
+      ]
+    },
+    "financials": {
+      "average_order_revenue_nrs": "500-800"
+    }
+  },
+  {
+    "business_type": "Electronics Store",
+    "locations": [
+      {
+        "city": "Kathmandu",
+        "areas": [
+          {
+            "name": "New Road",
+            "description": "Main electronics market. High rent but high foot traffic and specific consumer base.",
+            "shop_rent_nrs_per_month": "80,000-150,000"
+          },
+          {
+            "name": "Putalisadak",
+            "description": "Hub for computer and IT-related gadgets and services.",
+            "shop_rent_nrs_per_month": "60,000-100,000"
+          }
+        ]
+      },
+      {
+        "city": "Pokhara",
+        "areas": [
+          {
+            "name": "New Road",
+            "description": "Central market for electronics. Key supplier and retail location.",
+            "shop_rent_nrs_per_month": "50,000-80,000"
+          },
+          {
+            "name": "Prithvi Chowk",
+            "description": "High traffic area, good for general electronics and repair shops.",
+            "shop_rent_nrs_per_month": "40,000-60,000"
+          }
+        ]
+      }
+    ],
+    "costs": {
+      "supplier_cost_nrs_per_unit": {
+        "mid_range_smartphone": "20,000-40,000",
+        "laptop": "60,000-80,000"
+      },
+      "staff_salaries_nrs_per_month": [
+        {
+          "role": "Sales Associate",
+          "range": "25,000-35,000"
+        },
+        {
+          "role": "Technical Support",
+          "range": "30,000-40,000"
+        }
+      ]
+    }
+  },
+  {
+    "business_type": "Fintech",
+    "initial_costs": {
+      "licensing_fees_nrs": "500,000-15,000,000",
+      "breakdown": {
+        "Payment System Operator (PSO)": "1,000,000",
+        "Payment Service Provider (PSP)": "500,000",
+        "E-money Issuer": "1,000,000"
+      }
+    },
+    "costs": {
+      "monthly_operating_cost_nrs": "200,000-500,000",
+      "breakdown": {
+        "cloud_services_nrs": "50,000-100,000",
+        "staff_salaries_nrs": "100,000-300,000",
+        "marketing_and_other_nrs": "50,000-100,000"
+      }
+    },
+    "staff_nrs_per_month": [
+      {
+        "role": "Software Engineer",
+        "range": "50,000-120,000"
+      },
+      {
+        "role": "Operations Manager",
+        "range": "40,000-80,000"
+      },
+      {
+        "role": "Compliance Officer",
+        "range": "50,000+"
+      }
+    ]
+  },
+  {
+    "data_type": "Personal Financial Data",
+    "tax_slabs": {
+      "individual": {
+        "description": "Progressive tax system based on annual income.",
+        "rates_nrs": [
+          {"income_range": "Up to 500,000", "rate": "1%"},
+          {"income_range": "500,001 - 700,000", "rate": "10%"},
+          {"income_range": "700,001 - 1,000,000", "rate": "20%"},
+          {"income_range": "1,000,001 - 2,000,000", "rate": "30%"},
+          {"income_range": "2,000,001 - 5,000,000", "rate": "36%"},
+          {"income_range": "Above 5,000,000", "rate": "39%"}
+        ]
+      },
+      "corporate": {
+        "general_rate": "25%",
+        "priority_sectors_rate": "20%",
+        "details": "The corporate tax rate for priority sectors like energy, agriculture, and tourism is lower."
+      }
+    },
+    "common_expenses": {
+      "rent_nrs_per_month": {
+        "Kathmandu_city": "20,000-150,000",
+        "Pokhara_city": "15,000-100,000"
+      },
+      "utilities_nrs_per_month": {
+        "range": "5,000-15,000",
+        "breakdown": {
+          "electricity": "2,000-5,000",
+          "water": "500-1,000",
+          "internet": "1,000-2,000"
+        }
+      },
+      "food_nrs_per_person_per_month": "10,000-25,000",
+      "children_education_nrs_per_month": {
+        "public_school": "2,000-5,000",
+        "private_school": "5,000-15,000"
+      }
+    },
+    "financial_instruments": {
+      "loan_rates_percentage": {
+        "secured": "9-13",
+        "unsecured": "12-16"
+      },
+      "investments": [
+        {"name": "Bank Deposit", "typical_return_percentage": "5-8"},
+        {"name": "Government Bonds", "typical_return_percentage": "8-10"},
+        {"name": "Mutual Funds", "typical_return_percentage": "10-15"},
+        {"name": "Real Estate", "typical_return_percentage": "5-10"
+        }
+      ]
+    }
+  }
+]
