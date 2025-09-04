@@ -1,4 +1,10 @@
-# ChitraGupta
+# ChitraGupta 🇳🇵
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.3+-green?style=flat-square&logo=flask)
+![LLaMA](https://img.shields.io/badge/LLaMA-3.2_3B-orange?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-red?style=flat-square)
+
 A web-based financial advisory system for Nepal using LLaMA AI and RAG (Retrieval Augmented Generation) technology.
 
 ## Setup
@@ -39,11 +45,11 @@ GENAI_PRJCT/
 
 ## Technical Stack
 
-- Backend: Flask + Python 3.10+
-- AI Model: LLaMA 3.2 3B Instruct (4-bit quantized)
-- Vector Search: FAISS
-- Frontend: HTML5/CSS3/JavaScript
-- Data: 1,402 processed Nepal legal and financial documents
+- **Backend:** Flask + Python 3.10+
+- **AI Model:** LLaMA 3.2 3B Instruct (4-bit quantized)
+- **Vector Search:** FAISS
+- **Frontend:** HTML5/CSS3/JavaScript
+- **Data:** 1,402 processed Nepal legal and financial documents
 
 ## Features
 
@@ -53,8 +59,22 @@ GENAI_PRJCT/
 - Real-time web interface
 - Memory-optimized with 4-bit quantization
 
-## Team
+## 👥 Team
 
 Created by **Aayush Acharya**, **Nidhi Pradhan**, and **Suravi Paudel** as a project for the Gen AI workshop.
 
-**Mentor:** Er. Sujan Sharma
+### Team Members
+
+**Aayush Acharya**
+- 💼 LinkedIn: https://www.linkedin.com/in/acharyaaayush/
+- 🐙 GitHub: https://github.com/acharya-aayush
+- 📸 Instagram: @acharya.404
+- 📧 Email: acharyaaayush2k4@gmail.com
+
+**Nidhi Pradhan**
+- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-pradhan-79bb6a257/
+
+**Suravi Paudel**
+- 💼 LinkedIn: https://www.linkedin.com/in/suravi-poudel-115713311/
+
+**Mentor:** 🎓 Er. Sujan Sharma
