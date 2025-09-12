@@ -47,8 +47,8 @@ Instead of just asking AI to guess, we:
 
 **Aayush Acharya**
 LinkedIn: https://www.linkedin.com/in/acharyaaayush
-GitHub: https://github.com/acharya-aayush  
-Instagram: https://www.instagram.com/acharya.404
+GitHub: https://github.com/acharya-aayush   
+Instagram: https://www.instagram.com/acharya.404 
 Email: acharyaaayush2k4@gmail.com
 
 **Nidhi Pradhan** 
