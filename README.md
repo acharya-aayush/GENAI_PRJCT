@@ -46,9 +46,9 @@ Instead of just asking AI to guess, we:
 ## Team
 
 **Aayush Acharya**
-LinkedIn: https://www.linkedin.com/in/acharyaaayush/  
+LinkedIn: https://www.linkedin.com/in/acharyaaayush
 GitHub: https://github.com/acharya-aayush  
-Instagram: @acharya.404  
+Instagram: https://www.instagram.com/acharya.404
 Email: acharyaaayush2k4@gmail.com
 
 **Nidhi Pradhan** 
